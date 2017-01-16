@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.3.0_c4dcb60222839c3420bcb8746776350b551c4589.jar" />
+    </item>
+    <item
+        jar="/Users/santanuchakraborty/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/pre-dexed/release/support-annotations-23.3.0_44013cb5cddfc55f43b26f33d5e0fc8c78e2beba.jar" />
+    </item>
+    <item
+        jar="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-8.4.0_643093d8fb32f9ca24980af666ac27f1360ad5b6.jar" />
+    </item>
+    <item
+        jar="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.4.0_5ff02e3627f0b93c9f37537da315aa7ae2afb236.jar" />
+    </item>
+    <item
+        jar="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/pre-dexed/release/com.astuetz-pagerslidingtabstrip-1.0.1_8f6f1b40a3d9a2724748394ea19c0930e896b0bc.jar" />
+    </item>
+    <item
+        jar="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.3.0_56d1e26c81c3d3b0448814bcd5a7199721faa7eb.jar" />
+    </item>
+    <item
+        jar="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.3.0_f778637bc7bc699871578a6719fe1bf87946ea53.jar" />
+    </item>
+    <item
+        jar="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/pre-dexed/release/internal_impl-23.3.0_2b8457254a7ab6f4e60c728bb5b34263567e5c1b.jar" />
+    </item>
+    <item
+        jar="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/santanuchakraborty/Documents/SantiVentures/ArnabGoswamiSoundMix/ArnabSoundMix/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.3.0_29338c95e81ab2e88dcf47939773be08302231be.jar" />
+    </item>
+
+</items>

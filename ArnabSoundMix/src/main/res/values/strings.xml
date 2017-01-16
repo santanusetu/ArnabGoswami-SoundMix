@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arnab Goswami SoundMix</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-8450911480104678/5119697342</string>
+
+</resources>
